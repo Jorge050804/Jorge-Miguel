@@ -1,4 +1,4 @@
-# Jorge-Miguel
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+# Salve cria
+estou aqui aprendendo aqui no alura
+estou quase ficando louco mas passo bem
+por hj é só
